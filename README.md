@@ -1,7 +1,7 @@
 # Martian Robot
 
-    This is an iOS app that displays a list of planets and their information. The app is written in Swift and uses Core Data for persistence and the MVVM architecture with the Repository pattern.
-
+This is a playground app built using Swift programming language. the app processes the movement of a Robot on the surface of mars according to the instructions 
+provided from Earth
 ## Project Description 
 
 This is a playground code with testcases that defines a robot struct to keep track of each robot's position on the grid, orientation and also keeps track
